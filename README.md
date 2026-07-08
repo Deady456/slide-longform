@@ -6,7 +6,7 @@ AI longform video generator menggunakan slide-based pipeline.
 
 Buka di Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Deady456/slide-longform/blob/main/slide_longform_renderer.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Deady456/slide-longform/blob/master/slide_longform_renderer.ipynb)
 
 ## Alur
 
